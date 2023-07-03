@@ -17,6 +17,12 @@ In the command prompt (terminal)
 py mps_explicit.py
 ```
 
+## Output
+This code writes vtk files as output. You can visualize them by open with [Paraview](https://www.paraview.org) :eyes:.
+
+## Acknowledgments
 Code largely inspired by:
+
 https://www.youtube.com/watch?v=-0m05gzk8nk
+
 https://doi.org/10.1016/C2016-0-03952-9
