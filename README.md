@@ -2,7 +2,7 @@
 Basic fluid simulator of weakly-compressible moving particle semi-implicit (MPS) in Python.
 The code is very simply, altought extremely slow, to make it a good starting point to anyone who want to learn the basics of the MPS.
 
-[2D dam-break simulation](https://youtu.be/yUgjYa51v6k) (in Portuguese)
+[2D dam-break simulation Youtube](https://youtu.be/yUgjYa51v6k) (in Portuguese)
 ![fig2Ddam](dambreak_explicit_01.png)
 
 ## Module dependencies
